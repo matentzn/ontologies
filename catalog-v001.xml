@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <catalog prefer="public" xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog">
     <group id="Folder Repository, directory=, recursive=true, Auto-Update=true, version=2" prefer="public" xml:base="">
-        <uri id="Automatically generated entry, Timestamp=1517584286732" name="http://purl.obolibrary.org/obo/mp.owl" uri="mp.owl"/>
-        <uri id="Automatically generated entry, Timestamp=1517584286732" name="http://purl.obolibrary.org/obo/mp.owl/" uri="mp-edit.owl"/>
-        <uri id="Automatically generated entry, Timestamp=1517584286732" name="http://www.semanticweb.org/matentzn/ontologies/2018/0/untitled-ontology-43" uri="Untitled.owl"/>
-        <uri id="Automatically generated entry, Timestamp=1517584286732" name="http://www.semanticweb.org/matentzn/ontologies/2018/1/untitled-ontology-48" uri="pattern_ontologies_inferred.owl"/>
-        <uri id="Automatically generated entry, Timestamp=1517584286732" name="duplicate:http://www.w3.org/2002/07/owl" uri="pattern_ontology_definitions.owl"/>
-        <uri id="Automatically generated entry, Timestamp=1517584286732" name="duplicate:http://www.w3.org/2002/07/owl" uri="pattern_ontology_defs.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1518778694814" name="http://purl.obolibrary.org/obo/mp.owl" uri="mp.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1518778694814" name="http://purl.obolibrary.org/obo/mp.owl/" uri="mp-edit.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1518778694814" name="http://www.semanticweb.org/matentzn/ontologies/2018/0/untitled-ontology-43" uri="Untitled.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1518778694814" name="http://www.semanticweb.org/matentzn/ontologies/2018/1/untitled-ontology-48" uri="pattern_ontologies_inferred.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1518778694814" name="http://www.semanticweb.org/matentzn/ontologies/2018/1/untitled-ontology-73" uri="smalltest.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1518778694814" name="duplicate:http://www.w3.org/2002/07/owl" uri="pattern_ontology_definitions.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1518778694814" name="duplicate:http://www.w3.org/2002/07/owl" uri="pattern_ontology_defs.owl"/>
     </group>
 </catalog>
