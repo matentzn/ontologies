@@ -22,9 +22,19 @@
     
 
 
+    <!-- http://www.semanticweb.org/matentzn/ontologies/2018/1/untitled-ontology-73#P -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/matentzn/ontologies/2018/1/untitled-ontology-73#P">
+        <rdfs:label>has part</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
     <!-- http://www.semanticweb.org/matentzn/ontologies/2018/1/untitled-ontology-73#R -->
 
-    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/matentzn/ontologies/2018/1/untitled-ontology-73#R"/>
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/matentzn/ontologies/2018/1/untitled-ontology-73#R">
+        <rdfs:comment>test comment</rdfs:comment>
+    </owl:ObjectProperty>
     
 
 
@@ -56,6 +66,12 @@
     <!-- http://www.semanticweb.org/matentzn/ontologies/2018/1/untitled-ontology-73#C -->
 
     <owl:Class rdf:about="http://www.semanticweb.org/matentzn/ontologies/2018/1/untitled-ontology-73#C">
+        <owl:equivalentClass>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/matentzn/ontologies/2018/1/untitled-ontology-73#P"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/matentzn/ontologies/2018/1/untitled-ontology-73#D"/>
+            </owl:Restriction>
+        </owl:equivalentClass>
         <owl:equivalentClass>
             <owl:Restriction>
                 <owl:onProperty rdf:resource="http://www.semanticweb.org/matentzn/ontologies/2018/1/untitled-ontology-73#R"/>
