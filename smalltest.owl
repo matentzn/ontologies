@@ -59,7 +59,13 @@
 
     <!-- http://www.semanticweb.org/matentzn/ontologies/2018/1/untitled-ontology-73#A -->
 
-    <owl:Class rdf:about="http://www.semanticweb.org/matentzn/ontologies/2018/1/untitled-ontology-73#A"/>
+    <owl:Class rdf:about="http://www.semanticweb.org/matentzn/ontologies/2018/1/untitled-ontology-73#A">
+        <rdfs:comment>aa</rdfs:comment>
+        <rdfs:comment>bb</rdfs:comment>
+        <rdfs:comment>cc</rdfs:comment>
+        <rdfs:label>dds</rdfs:label>
+        <rdfs:label>sd</rdfs:label>
+    </owl:Class>
     
 
 
