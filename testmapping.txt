@@ -1,0 +1,2 @@
+http://purl.obolibrary.org/obo/HP_0005303,http://purl.obolibrary.org/obo/MP_0010524
+http://purl.obolibrary.org/obo/HP_0002570,http://purl.obolibrary.org/obo/MP_0002791
