@@ -1,2 +1,8 @@
 http://purl.obolibrary.org/obo/HP_0005303,http://purl.obolibrary.org/obo/MP_0010524
 http://purl.obolibrary.org/obo/HP_0002570,http://purl.obolibrary.org/obo/MP_0002791
+http://www.semanticweb.org/matentzn/ontologies/2018/1/untitled-ontology-73#TEST1,http://www.semanticweb.org/matentzn/ontologies/2018/1/untitled-ontology-73#TEST2
+http://www.semanticweb.org/matentzn/ontologies/2018/1/untitled-ontology-73#TEST1,http://www.semanticweb.org/matentzn/ontologies/2018/1/untitled-ontology-73#TEST3
+http://www.semanticweb.org/matentzn/ontologies/2018/1/untitled-ontology-73#TEST1,http://www.semanticweb.org/matentzn/ontologies/2018/1/untitled-ontology-73#TEST4
+http://www.semanticweb.org/matentzn/ontologies/2018/1/untitled-ontology-73#TEST2,http://www.semanticweb.org/matentzn/ontologies/2018/1/untitled-ontology-73#TEST3
+http://www.semanticweb.org/matentzn/ontologies/2018/1/untitled-ontology-73#TEST2,http://www.semanticweb.org/matentzn/ontologies/2018/1/untitled-ontology-73#TEST4
+http://www.semanticweb.org/matentzn/ontologies/2018/1/untitled-ontology-73#TEST3,http://www.semanticweb.org/matentzn/ontologies/2018/1/untitled-ontology-73#TEST4
