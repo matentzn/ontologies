@@ -33,7 +33,7 @@
     <!-- http://www.semanticweb.org/matentzn/ontologies/2018/1/untitled-ontology-73#P -->
 
     <owl:ObjectProperty rdf:about="http://www.semanticweb.org/matentzn/ontologies/2018/1/untitled-ontology-73#P">
-        <rdfs:label>has part</rdfs:label>
+        <rdfs:label>has part&apos;:@&quot;</rdfs:label>
     </owl:ObjectProperty>
     
 
