@@ -11,7 +11,7 @@
     <Prefix name="xml" IRI="http://www.w3.org/XML/1998/namespace"/>
     <Prefix name="xsd" IRI="http://www.w3.org/2001/XMLSchema#"/>
     <Prefix name="rdfs" IRI="http://www.w3.org/2000/01/rdf-schema#"/>
-    <Import>http://purl.obolibrary.org/obo/upheno/releases/2017-07-05/zp.owl</Import>
+    <Import>https://raw.githubusercontent.com/Phenomics/zebrafish-phenotype-ontology-build/master/zp.owl</Import>
     <Import>http://purl.obolibrary.org/obo/zfa/releases/2018-06-04/zfa.owl</Import>
 </Ontology>
 
