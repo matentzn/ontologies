@@ -12,7 +12,7 @@
     <Prefix name="xsd" IRI="http://www.w3.org/2001/XMLSchema#"/>
     <Prefix name="rdfs" IRI="http://www.w3.org/2000/01/rdf-schema#"/>
     <Import>https://raw.githubusercontent.com/Phenomics/zebrafish-phenotype-ontology-build/master/zp.owl</Import>
-    <Import>http://purl.obolibrary.org/obo/zfa/releases/2018-06-04/zfa.owl</Import>
+    <Import>http://purl.obolibrary.org/obo/zfa.owl</Import>
 </Ontology>
 
 
