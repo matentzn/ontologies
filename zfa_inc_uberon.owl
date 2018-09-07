@@ -27,13 +27,6 @@
         <oboInOwl:date rdf:datatype="http://www.w3.org/2001/XMLSchema#string">31:05:2018 14:03</oboInOwl:date>
         <oboInOwl:treat-xrefs-as-genus-differentia rdf:datatype="http://www.w3.org/2001/XMLSchema#string">TAO part_of NCBITaxon:7955</oboInOwl:treat-xrefs-as-genus-differentia>
         <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SVN version: $Revision: 1.100$</rdfs:comment>
-        <oboInOwl:saved-by rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ceri</oboInOwl:saved-by>
-        <oboInOwl:treat-xrefs-as-genus-differentia rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CL part_of NCBITaxon:7955</oboInOwl:treat-xrefs-as-genus-differentia>
-        <oboInOwl:default-namespace rdf:datatype="http://www.w3.org/2001/XMLSchema#string">zebrafish_anatomical_ontology</oboInOwl:default-namespace>
-        <oboInOwl:treat-xrefs-as-genus-differentia rdf:datatype="http://www.w3.org/2001/XMLSchema#string">VSAO part_of NCBITaxon:7955</oboInOwl:treat-xrefs-as-genus-differentia>
-        <oboInOwl:auto-generated-by rdf:datatype="http://www.w3.org/2001/XMLSchema#string">OBO-Edit 2.3-beta5</oboInOwl:auto-generated-by>
-        <oboInOwl:hasOBOFormatVersion rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1.2</oboInOwl:hasOBOFormatVersion>
-        <oboInOwl:treat-xrefs-as-genus-differentia rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CARO part_of NCBITaxon:7955</oboInOwl:treat-xrefs-as-genus-differentia>
     </owl:Ontology>
 
 </rdf:RDF>
