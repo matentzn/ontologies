@@ -20,10 +20,10 @@
     <owl:Ontology rdf:about="http://purl.obolibrary.org/obo/zfa.owl">
         <owl:versionIRI rdf:resource="http://purl.obolibrary.org/obo/zfa/testdontuse/zfa.owl"/>
         <owl:imports rdf:resource="http://purl.obolibrary.org/obo/zfa.owl"/>
-        <owl:imports rdf:resource="http://purl.obolibrary.org/obo/uberon/releases/2018-07-30/uberon.owl"/>
-        <owl:imports rdf:resource="http://purl.obolibrary.org/obo/uberon/bridge/cl-bridge-to-zfa/2014-05-27/uberon/bridge/cl-bridge-to-zfa.owl"/>
+        <owl:imports rdf:resource="http://purl.obolibrary.org/obo/uberon.owl"/>
+        <owl:imports rdf:resource="http://purl.obolibrary.org/obo/uberon/bridge/uberon-bridge-to-zfa.owl"/>
         <owl:imports rdf:resource="http://purl.obolibrary.org/obo/upheno/imports/go_import.owl"/>
-        <owl:imports rdf:resource="http://purl.obolibrary.org/obo/uberon/bridge/uberon-bridge-to-zfa/2018-07-30/uberon/bridge/uberon-bridge-to-zfa.owl"/>
+        <owl:imports rdf:resource="http://purl.obolibrary.org/obo/uberon/bridge/cl-bridge-to-zfa.owl"/>
         <oboInOwl:date rdf:datatype="http://www.w3.org/2001/XMLSchema#string">31:05:2018 14:03</oboInOwl:date>
         <oboInOwl:treat-xrefs-as-genus-differentia rdf:datatype="http://www.w3.org/2001/XMLSchema#string">TAO part_of NCBITaxon:7955</oboInOwl:treat-xrefs-as-genus-differentia>
         <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SVN version: $Revision: 1.100$</rdfs:comment>
