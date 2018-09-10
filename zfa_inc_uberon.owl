@@ -1,13 +1,11 @@
 <?xml version="1.0"?>
-<rdf:RDF xmlns="http://purl.obolibrary.org/obo/zfa.owl#"
-     xml:base="http://purl.obolibrary.org/obo/zfa.owl"
-     xmlns:obo2="http://www.geneontology.org/formats/oboInOwl#http://purl.obolibrary.org/obo/"
+<rdf:RDF xmlns="http://purl.obolibrary.org/obo/zfa_inc_uberon.owl#"
+     xml:base="http://purl.obolibrary.org/obo/zfa_inc_uberon.owl"
      xmlns:owl="http://www.w3.org/2002/07/owl#"
      xmlns:oboInOwl="http://www.geneontology.org/formats/oboInOwl#"
      xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
      xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
      xmlns:core="http://purl.obolibrary.org/obo/uberon/core#"
-     xmlns:zfa="http://purl.obolibrary.org/obo/zfa#"
      xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
      xmlns:core1="http://purl.obolibrary.org/obo/core#"
      xmlns:doap="http://usefulinc.com/ns/doap#"
@@ -15,18 +13,14 @@
      xmlns:xml="http://www.w3.org/XML/1998/namespace"
      xmlns:obo="http://purl.obolibrary.org/obo/"
      xmlns:foaf="http://xmlns.com/foaf/0.1/"
-     xmlns:dc="http://purl.org/dc/elements/1.1/"
-     xmlns:insect-anatomy="http://purl.obolibrary.org/obo/uberon/insect-anatomy#">
-    <owl:Ontology rdf:about="http://purl.obolibrary.org/obo/zfa.owl">
-        <owl:versionIRI rdf:resource="http://purl.obolibrary.org/obo/zfa/testdontuse/zfa.owl"/>
+     xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <owl:Ontology rdf:about="http://purl.obolibrary.org/obo/zfa_inc_uberon.owl">
+        <owl:versionIRI rdf:resource="http://purl.obolibrary.org/obo/zfa/testdontuse/zfa_inc_uberon.owl"/>
         <owl:imports rdf:resource="http://purl.obolibrary.org/obo/zfa.owl"/>
         <owl:imports rdf:resource="http://purl.obolibrary.org/obo/uberon.owl"/>
         <owl:imports rdf:resource="http://purl.obolibrary.org/obo/uberon/bridge/uberon-bridge-to-zfa.owl"/>
         <owl:imports rdf:resource="http://purl.obolibrary.org/obo/upheno/imports/go_import.owl"/>
         <owl:imports rdf:resource="http://purl.obolibrary.org/obo/uberon/bridge/cl-bridge-to-zfa.owl"/>
-        <oboInOwl:date rdf:datatype="http://www.w3.org/2001/XMLSchema#string">31:05:2018 14:03</oboInOwl:date>
-        <oboInOwl:treat-xrefs-as-genus-differentia rdf:datatype="http://www.w3.org/2001/XMLSchema#string">TAO part_of NCBITaxon:7955</oboInOwl:treat-xrefs-as-genus-differentia>
-        <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SVN version: $Revision: 1.100$</rdfs:comment>
     </owl:Ontology>
 
 </rdf:RDF>
