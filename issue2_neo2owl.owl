@@ -17,6 +17,9 @@
         <Class IRI="http://purl.obolibrary.org/obo/fbbt/vfb/VFBext_0000004"/>
     </Declaration>
     <Declaration>
+        <NamedIndividual IRI="http://www.purl.obolibrary.org/obo/ZP_0099004"/>
+    </Declaration>
+    <Declaration>
         <Class IRI="http://flybase.org/reports/FBtp0064177"/>
     </Declaration>
     <Declaration>
@@ -24,6 +27,9 @@
     </Declaration>
     <Declaration>
         <ObjectProperty IRI="http://purl.obolibrary.org/obo/BFO_0000050"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="http://virtualflybrain.org/data/TrumanWood2018"/>
     </Declaration>
     <Declaration>
         <Class IRI="http://purl.obolibrary.org/obo/FBbt_00007064"/>
@@ -36,9 +42,6 @@
     </Declaration>
     <Declaration>
         <Class IRI="http://virtualflybrain.org/reports/VFBexp_FBtp0064177"/>
-    </Declaration>
-    <Declaration>
-        <NamedIndividual IRI="http://virtualflybrain.org/reports/VFB_00055130"/>
     </Declaration>
     <Declaration>
         <Class IRI="http://purl.obolibrary.org/obo/FBbt_00007723"/>
@@ -74,49 +77,49 @@
     </EquivalentClasses>
     <ClassAssertion>
         <Class IRI="http://purl.obolibrary.org/obo/fbbt/vfb/VFBext_0000004"/>
-        <NamedIndividual IRI="http://virtualflybrain.org/reports/VFB_00055130"/>
+        <NamedIndividual IRI="http://virtualflybrain.org/data/TrumanWood2018"/>
     </ClassAssertion>
     <ClassAssertion>
         <ObjectSomeValuesFrom>
             <ObjectProperty IRI="http://purl.obolibrary.org/obo/BFO_0000050"/>
             <Class IRI="http://purl.obolibrary.org/obo/FBbt_00001919"/>
         </ObjectSomeValuesFrom>
-        <NamedIndividual IRI="http://virtualflybrain.org/reports/VFB_00055130"/>
+        <NamedIndividual IRI="http://virtualflybrain.org/data/TrumanWood2018"/>
     </ClassAssertion>
     <ClassAssertion>
         <ObjectSomeValuesFrom>
             <ObjectProperty IRI="http://purl.obolibrary.org/obo/BFO_0000050"/>
             <Class IRI="http://virtualflybrain.org/reports/VFBexp_FBtp0064177"/>
         </ObjectSomeValuesFrom>
-        <NamedIndividual IRI="http://virtualflybrain.org/reports/VFB_00055130"/>
+        <NamedIndividual IRI="http://virtualflybrain.org/data/TrumanWood2018"/>
     </ClassAssertion>
     <ClassAssertion>
         <ObjectSomeValuesFrom>
             <ObjectProperty IRI="http://purl.obolibrary.org/obo/RO_0002131"/>
             <Class IRI="http://purl.obolibrary.org/obo/FBbt_00007064"/>
         </ObjectSomeValuesFrom>
-        <NamedIndividual IRI="http://virtualflybrain.org/reports/VFB_00055130"/>
+        <NamedIndividual IRI="http://virtualflybrain.org/data/TrumanWood2018"/>
     </ClassAssertion>
     <ClassAssertion>
         <ObjectSomeValuesFrom>
             <ObjectProperty IRI="http://purl.obolibrary.org/obo/RO_0002131"/>
             <Class IRI="http://purl.obolibrary.org/obo/FBbt_00007723"/>
         </ObjectSomeValuesFrom>
-        <NamedIndividual IRI="http://virtualflybrain.org/reports/VFB_00055130"/>
+        <NamedIndividual IRI="http://virtualflybrain.org/data/TrumanWood2018"/>
     </ClassAssertion>
     <ClassAssertion>
         <ObjectSomeValuesFrom>
             <ObjectProperty IRI="http://purl.obolibrary.org/obo/RO_0002131"/>
             <Class IRI="http://purl.obolibrary.org/obo/FBbt_00111204"/>
         </ObjectSomeValuesFrom>
-        <NamedIndividual IRI="http://virtualflybrain.org/reports/VFB_00055130"/>
+        <NamedIndividual IRI="http://virtualflybrain.org/data/TrumanWood2018"/>
     </ClassAssertion>
     <ClassAssertion>
         <ObjectSomeValuesFrom>
             <ObjectProperty IRI="http://purl.obolibrary.org/obo/RO_0002292"/>
             <Class IRI="http://flybase.org/reports/FBtp0064177"/>
         </ObjectSomeValuesFrom>
-        <NamedIndividual IRI="http://virtualflybrain.org/reports/VFB_00055130"/>
+        <NamedIndividual IRI="http://virtualflybrain.org/data/TrumanWood2018"/>
     </ClassAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="http://www.geneontology.org/formats/oboInOwl#creation_date"/>
@@ -145,8 +148,13 @@
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI=":source"/>
-        <IRI>http://virtualflybrain.org/reports/VFB_00055130</IRI>
         <IRI>http://virtualflybrain.org/data/TrumanWood2018</IRI>
+        <IRI>http://virtualflybrain.org/data/TrumanWood2018</IRI>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://www.purl.obolibrary.org/obo/ZP_0099004</IRI>
+        <Literal xml:lang="en">DS</Literal>
     </AnnotationAssertion>
 </Ontology>
 
