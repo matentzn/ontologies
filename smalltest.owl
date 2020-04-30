@@ -127,6 +127,13 @@
         <rdfs:isDefinedBy>yaiusy08u s8ua 9 . (**T %&amp;^%</rdfs:isDefinedBy>
         <rdfs:seeAlso rdf:resource="http://www.semanticweb.org/matentzn/ontologies/2018/1/untitled-ontology-73#i"/>
     </owl:Class>
+    <owl:Axiom>
+        <owl:annotatedSource rdf:resource="http://www.semanticweb.org/matentzn/ontologies/2018/1/untitled-ontology-73#D"/>
+        <owl:annotatedProperty rdf:resource="http://www.w3.org/2000/01/rdf-schema#isDefinedBy"/>
+        <owl:annotatedTarget>yaiusy08u s8ua 9 . (**T %&amp;^%</owl:annotatedTarget>
+        <rdfs:seeAlso>TestSeeThis</rdfs:seeAlso>
+        <owl:incompatibleWith rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</owl:incompatibleWith>
+    </owl:Axiom>
     
 
 
