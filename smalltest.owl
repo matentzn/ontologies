@@ -124,6 +124,7 @@
                 <owl:hasValue rdf:resource="http://www.semanticweb.org/matentzn/ontologies/2018/1/untitled-ontology-73#i"/>
             </owl:Restriction>
         </rdfs:subClassOf>
+        <rdfs:comment>Hi</rdfs:comment>
         <rdfs:isDefinedBy>yaiusy08u s8ua 9 . (**T %&amp;^%</rdfs:isDefinedBy>
         <rdfs:seeAlso rdf:resource="http://www.semanticweb.org/matentzn/ontologies/2018/1/untitled-ontology-73#i"/>
     </owl:Class>
